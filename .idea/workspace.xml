@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="938a88b2-cd12-494d-831b-2c3bcca266f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\maven_jar" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kJgnW7cZwlcPZW20XNSw0goTeP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.junjie.sm.dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\student-manger\src\test\java\com\junjie\sm\dao" />
+      <recent name="D:\student-manger\src\main\java\com\junjie\sm\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AdminLoginFrame">
+    <configuration name="AdminLoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junjie.sm.frame.AdminLoginFrame" />
+      <module name="student-manger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junjie.sm.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junjie.sm.utils.JdbcUtil" />
+      <module name="student-manger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junjie.sm.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminDaoTest.findAdminByAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="student-manger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junjie.sm.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.junjie.sm.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.junjie.sm.dao.AdminDaoTest" />
+      <option name="METHOD_NAME" value="findAdminByAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdminLoginFrame" />
+        <item itemvalue="JUnit.AdminDaoTest.findAdminByAccount" />
+        <item itemvalue="Application.JdbcUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="938a88b2-cd12-494d-831b-2c3bcca266f4" name="Default Changelist" comment="" />
+      <created>1605424276427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605424276427</updated>
+      <workItem from="1605424280967" duration="1411000" />
+      <workItem from="1605528468833" duration="106000" />
+      <workItem from="1605528590376" duration="43000" />
+      <workItem from="1605528652958" duration="559000" />
+      <workItem from="1605529300384" duration="1553000" />
+      <workItem from="1605530897949" duration="3442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="80" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1605534435407">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="80" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1549.831@0.0.1549.831" timestamp="1605534435407" />
+    <state x="580" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1605534639774">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="580" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1605534639774" />
+    <state x="686" y="158" key="FileChooserDialogImpl" timestamp="1605425406836">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="686" y="158" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1605425406836" />
+    <state width="1506" height="77" key="GridCell.Tab.0.bottom" timestamp="1605534893542">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="77" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1605534893542" />
+    <state width="1506" height="77" key="GridCell.Tab.0.center" timestamp="1605534893542">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="77" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1605534893542" />
+    <state width="1506" height="77" key="GridCell.Tab.0.left" timestamp="1605534893542">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="77" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1605534893542" />
+    <state width="1506" height="77" key="GridCell.Tab.0.right" timestamp="1605534893542">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="77" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1605534893542" />
+    <state x="415" y="0" key="SettingsEditor" timestamp="1605528726774">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="415" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1605528726774" />
+    <state x="574" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1605529301021">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="574" y="248" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1605529301020" />
+    <state x="546" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605529875281">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="546" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1549.831@0.0.1549.831" timestamp="1605529875281" />
+  </component>
+</project>
